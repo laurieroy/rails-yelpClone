@@ -12,7 +12,10 @@
   </head>
 
   <body>
+    <%= render 'layouts/navbar' %> 
+    <div class="container-fluid">
     <%= yield %>
-    <p> Copyright Laurie Roy</p>
+    </div>
+    <%= render 'layouts/footer' %> 
   </body>
 </html>

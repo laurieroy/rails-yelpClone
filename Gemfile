@@ -45,4 +45,7 @@ group :development do
 end
 
 gem 'carrierwave', '~> 2.0'
-gem "fog-aws"
+gem 'devise'
+gem 'fog-aws'
+gem 'simple_form'
+

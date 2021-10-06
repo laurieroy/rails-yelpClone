@@ -4,7 +4,7 @@ This is clone of yelp, reviewing restaurants only. I loosely followed a Rails 4 
 
 [See Demo](https://laurie-yelpclone.herokuapp.com/)
 
-- UI: Bootstrap5
+- UI: Bootstrap5 for now. I'm not going too far into it right now. Plan to redo in React
 <!-- Auth: Devise -->
 - Upload image using carrierwave, storage is on AWS S3
 
